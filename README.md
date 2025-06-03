@@ -19,7 +19,9 @@ A secure, fluent, and lightweight PHP MySQL database query builder and executor 
 ## Installation
 
 1. Clone or download this repository.
-
+```bash
+https://github.com/tasherul/easy_db.git
+```
 2. Create a `.env` file in the same directory with your database credentials:
 
     ```
